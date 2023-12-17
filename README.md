@@ -33,16 +33,18 @@
   <tr>
     <td align="center">
       <div><b><em><spam>Statistics</spam></em></b></div>
-      <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
+<!--       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" /> -->
     </td>
     <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=llzcx&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=llzcx&hide_border=true&show_icons=true&theme=dark&bg_color=101c3f"/>
     </td>
   </tr>
 </table>
 
 How to reach me 📫
+
 Email：llzcxdb@163.com
+
 WeChat：hlllzcx
 <!--
 **llzcx/llzcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
