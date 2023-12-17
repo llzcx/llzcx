@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
 </div>
 <!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
-<!-- <table align="center">
+<table align="center">
   <tr>
     <td align="center">
       <div><b><em><spam>Statistics</spam></em></b></div>
@@ -39,7 +39,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=llzcx&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
     </td>
   </tr>
-</table> -->
+</table>
+
+How to reach me 📫
+Email：llzcxdb@163.com
+WeChat：hlllzcx
 <!--
 **llzcx/llzcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
