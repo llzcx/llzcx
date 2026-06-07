@@ -13,7 +13,7 @@
   2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 -->
 <div align="center">
-    <img src="https://img.shields.io/badge/-Go-3f81bb?style=flat&logo=go&logoColor=blue">
+    <img src="https://img.shields.io/badge/-Go-218bea?style=flat&logo=go&logoColor=blue">
   <img src="https://img.shields.io/badge/-Java-ffc0cb?style=flat&logo=JAVA-1.8&logoColor=white">
   <img src="https://img.shields.io/badge/-C-a9bacc?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3f81bb?style=flat&logo=python&logoColor=white">
